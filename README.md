@@ -1,1 +1,1 @@
-# Flappy Birt AI Player using Deep Q-Networks(DQN)
+# Flappy Bird AI Player using Deep Q-Networks(DQN)
